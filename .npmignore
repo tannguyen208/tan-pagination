@@ -1,0 +1,10 @@
+# Ignore source files on npm
+src/
+tsconfig.json
+*.ts
+*.map
+
+# Ignore other dev stuff
+node_modules/
+.gitignore
+npm-debug.log
